@@ -1,0 +1,28 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=v1
+*Date=11:45:41
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;1µF;100 mil [THT, electrolytic];30.4382;-8.70732;-90;Bottom;C1
+2;;;40.5982;-48.0773;0;Bottom;Hole4
+3;;THT;3.76822;-27.7573;0;Bottom;J4
+4;;DIP (Dual Inline) [THT];16.4682;-27.7573;0;Bottom;MAX 1
+5;;THT;16.4682;-7.43732;-90;Bottom;J6
+6;1µF;100 mil [THT, tantalum];36.7882;-8.70732;-90;Bottom;C2
+7;;THT;16.4682;-9.97732;-90;Bottom;J2
+8;220;THT;27.8982;-26.4873;0;Bottom;R1
+9;;;40.5982;-2.35732;0;Bottom;Hole2
+10;;THT;16.4682;-46.8073;-90;Bottom;J1
+11;;;2.49822;-2.35732;0;Bottom;Hole1
+12;;;2.49813;-48.0773;0;Bottom;Hole3
+13;;THT;38.0582;-27.7573;0;Bottom;J5
